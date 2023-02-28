@@ -64,7 +64,7 @@
     "aws-sdk": "^2.1152.0",
     "csvtojson": "^2.0.10",
     "kiteconnect": "^4.0.1",
-    "mongoose": "^6.3.6",
+    "mongoose": "^7.0.0",
     "simple-statistics": "^7.7.5",
     "sitka": "^1.0.5",
     "timer-queue": "^1.1.0"
